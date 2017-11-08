@@ -29,6 +29,7 @@ vendor/lib/libaptXScheduler.so
 # Audio
 etc/drc/drc_cfg_5.1.txt
 etc/drc/drc_cfg_AZ.txt
+etc/mixer_paths.xml
 etc/mixer_paths_skuk.xml
 etc/mixer_paths_wcd9306.xml
 etc/mixer_paths_wcd9326.xml
